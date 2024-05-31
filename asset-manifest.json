@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01a21c0e.css",
+    "main.js": "/static/js/main.afd4d605.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/nyc.png": "/static/media/nyc.139298242835d62facd4.png",
+    "static/media/hd.png": "/static/media/hd.49765c958331f0edefe9.png",
+    "static/media/onboarding.png": "/static/media/onboarding.542f8dee519b9dd4585f.png",
+    "static/media/portfolio.png": "/static/media/portfolio.443bb455c047db4ca689.png",
+    "static/media/Andrei-Shen-Resume.pdf": "/static/media/Andrei-Shen-Resume.6b6453665882ad5c4d67.pdf",
+    "static/media/pre.svg": "/static/media/pre.e4c81c26304bc309eb55.svg",
+    "static/media/h3.jpg": "/static/media/h3.dc52d5d40a40b13154b0.jpg",
+    "index.html": "/index.html",
+    "main.01a21c0e.css.map": "/static/css/main.01a21c0e.css.map",
+    "main.afd4d605.js.map": "/static/js/main.afd4d605.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a21c0e.css",
+    "static/js/main.afd4d605.js"
+  ]
+}
