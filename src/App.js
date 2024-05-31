@@ -9,7 +9,7 @@ import MyNav from "./components/navbar/MyNav";
 import { BrowserRouter as Router } from "react-router-dom";
 import Home from "./pages/home_page/HomePage";
 import Resume from "./pages/resume_page/ResumePage";
-import ProjectPage from "./pages/project_page/ProjectPage";
+// import ProjectPage from "./pages/project_page/ProjectPage";
 import { Route, Routes } from "react-router-dom";
 import Footer from "./components/footer/Footer";
 import About from "./components/aboutme/about/About";
